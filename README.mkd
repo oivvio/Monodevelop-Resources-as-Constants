@@ -7,4 +7,8 @@ Find all content-files and add them as variables to a global-settings constant
 For now make sure your filenames has no chars that are not ascii.
 
 
+Todo
+====
+
+Grep complete solution for usage of all generated constants, then add comments for those that are unused.
 
