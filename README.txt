@@ -1,0 +1,10 @@
+Monodevelop resources
+=====================
+
+Parse the .csproj file of a Monodevlop solution (is that the right term here)
+Find all content-files and add them as variables to a global-settings constant
+
+For now make sure your filenames has no chars that are not ascii.
+
+
+
