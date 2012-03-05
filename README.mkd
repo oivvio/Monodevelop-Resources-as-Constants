@@ -12,3 +12,4 @@ Todo
 
 Grep complete solution for usage of all generated constants, then add comments for those that are unused.
 
+Maybe do as c# instead of python?
